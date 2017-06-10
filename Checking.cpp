@@ -7,8 +7,6 @@
 //============================================================================
 
 #include <iostream>
-#include <sstream>
-#include <iostream>
 #include "Checking.h"
 #include "Generic.h"
 
